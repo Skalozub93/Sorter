@@ -100,7 +100,7 @@ public:
 
 int main()
 {
-    Sorter();
+    
     Sorter<int>::BubbleSort;
     Sorter<int>::InsertionSort;
     Sorter<int>::QuickSort;
